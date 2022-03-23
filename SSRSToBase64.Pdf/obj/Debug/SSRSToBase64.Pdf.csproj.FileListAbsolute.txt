@@ -1,0 +1,8 @@
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\bin\Debug\SSRSToBase64.Pdf.exe.config
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\bin\Debug\SSRSToBase64.Pdf.exe
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\bin\Debug\SSRSToBase64.Pdf.pdb
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\obj\Debug\SSRSToBase64.Pdf.csproj.AssemblyReference.cache
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\obj\Debug\SSRSToBase64.Pdf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\obj\Debug\SSRSToBase64.Pdf.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\obj\Debug\SSRSToBase64.Pdf.exe
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.Pdf\obj\Debug\SSRSToBase64.Pdf.pdb

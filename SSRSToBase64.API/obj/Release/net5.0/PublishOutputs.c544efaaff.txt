@@ -1,0 +1,11 @@
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\SSRSToBase64.API.exe
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\SSRSToBase64.API.dll
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\SSRSToBase64.API.deps.json
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\SSRSToBase64.API.runtimeconfig.json
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\SSRSToBase64.API.pdb
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Somad\source\repos\SSRSToBase64\SSRSToBase64.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
